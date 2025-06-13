@@ -1,0 +1,15 @@
+AllCops:
+  NewCops: enable
+
+Layout/LineLength:
+  Enabled: false
+Metrics/ParameterLists:
+  Enabled: false
+Metrics/BlockLength:
+  Enabled: false
+Metrics/AbcSize:
+  Enabled: false
+Style/FetchEnvVar:
+  Enabled: false
+Style/IfUnlessModifier:
+  Enabled: false
